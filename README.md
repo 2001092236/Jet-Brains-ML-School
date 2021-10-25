@@ -1,2 +1,2 @@
 # Jet-Brains-ML-School
-Летняя школа машинного обучения Jet Brains
+Practice in ML and RL at Jetrains summer school.
